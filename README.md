@@ -12,8 +12,6 @@ This is a  project where I model the probability of a player winning a tennis se
 - Use that model during a live match to estimate who is more likely to win the set.
 - Use the prediction as a basis to check whether a bet could be favourable.
 
-I wrote this mainly to combine maths, programming and some basic machine learning in a concrete setting.
-
 ---
 
 ## Project overview
