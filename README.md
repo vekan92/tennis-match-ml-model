@@ -34,9 +34,7 @@ The project is split into three main parts:
    - Encodes the sequence of games so far in the same format as the training data.
    - Loads the training data for the player and the opponent.
    - Trains two models (one per side) and compares their predictions for the current score state.
-   - If the models disagree (one predicts win, the other loss), the script flags that as a potential betting opportunity and alerts the user.
-
-This is not a production system, just an experiment to explore modelling and decision rules.
+   - If the models agree (one predicts win, the other loss), the script flags that as a potential betting opportunity and alerts the user.
 
 ---
 
